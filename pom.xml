@@ -54,7 +54,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainclass>com.harsha.app.App</mainclass>
+                <mainClass>com.harsha.app.App</mainClass>
               </manifest>
             </archive>
           </configuration>
