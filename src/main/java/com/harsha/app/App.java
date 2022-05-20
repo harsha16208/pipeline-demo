@@ -1,4 +1,4 @@
-package com.harsha.ap;
+package com.harsha.app;
 
 /**
  * Hello world!
